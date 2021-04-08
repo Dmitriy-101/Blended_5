@@ -1,0 +1,19 @@
+<!-- Блок Posts -->
+
+<section class="posts">
+
+    <article class="post">
+    
+        <h2 class="post-title">Post Title</h2>
+        
+        <div class="post-author">
+            <h3 class="post-author-name">Name</h3>
+            
+            <div class="post-author-another-info">
+              <div class="post-author-tabs">
+                <div class="post-author-tabs-arrows"></div>
+              </div>
+            </div><!-- end info -->
+        </div><!-- end author -->
+    </article>
+</section>
